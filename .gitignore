@@ -1,0 +1,15 @@
+node_modules/
+resource/
+doc/
+nginx.conf
+package-lock.json
+.ftpconfig
+.htaccess
+.vscode/
+**/old
+**/original
+*.rar
+*.zip
+*.7z
+*.psd
+*.ai
